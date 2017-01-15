@@ -9,7 +9,7 @@ using Windows.Storage.Streams;
 using Windows.ApplicationModel.Core;
 using Windows.UI.Core;
 
-namespace FtpService
+namespace Imagine.Uwp.Fpt
 {
     public class FtpClient
     {

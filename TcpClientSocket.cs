@@ -6,7 +6,7 @@ using Windows.Networking.Sockets;
 using Windows.Storage.Streams;
 using Windows.UI.Core;
 
-namespace FtpService
+namespace Imagine.Uwp.Fpt
 {
     public sealed class TcpClientSocket : IDisposable
     {

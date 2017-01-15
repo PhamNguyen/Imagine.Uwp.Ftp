@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FtpService
+namespace Imagine.Uwp.Fpt
 {
     public class SocketClosedEventArgs : EventArgs
     {

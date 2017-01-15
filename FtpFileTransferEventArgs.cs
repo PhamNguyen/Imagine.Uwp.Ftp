@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace FtpService
+namespace Imagine.Uwp.Fpt
 {
 	public class FtpFileTransferEventArgs : EventArgs
 	{

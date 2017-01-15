@@ -1,4 +1,4 @@
-﻿namespace FtpService
+﻿namespace Imagine.Uwp.Fpt
 {
     public enum FtpPassiveOperation: byte
     {

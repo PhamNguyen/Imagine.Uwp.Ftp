@@ -3,7 +3,7 @@ using System.Collections.ObjectModel;
 using Windows.ApplicationModel.Core;
 using Windows.UI.Core;
 
-namespace FtpService
+namespace Imagine.Uwp.Fpt
 {
     public sealed class Logger
     {

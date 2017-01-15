@@ -7,8 +7,8 @@
     <ProjectGuid>{F8853212-A2B2-4EDB-9805-322C8460CF39}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FtpService</RootNamespace>
-    <AssemblyName>FtpService</AssemblyName>
+    <RootNamespace>Imagine.Uwp.Ftp</RootNamespace>
+    <AssemblyName>Imagine.Uwp.Ftp</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion>10.0.10586.0</TargetPlatformVersion>
